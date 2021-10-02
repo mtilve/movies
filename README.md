@@ -18,13 +18,13 @@
 
 # Screenshots
 <div align="center">
-<img src="https://github.com/mtilve/test/blob/master/movies_1.png" height="200px" width="400px" >
-<img src="https://github.com/mtilve/test/blob/master/movies_2.png" height="200px" width="400px" >
-<img src="https://github.com/mtilve/test/blob/master/movies_3.png" height="200px" width="400px" >
+<img src="https://github.com/mtilve/test/blob/master/movies_1.png" height="400px" width="800px" >
+<img src="https://github.com/mtilve/test/blob/master/movies_2.png" height="400px" width="800px" >
+<img src="https://github.com/mtilve/test/blob/master/movies_3.png" height="400px" width="800px" >
 </div>
 <div align="center">
-<img src="https://github.com/mtilve/test/blob/master/movies_4.png" height="200px" width="400px" >
-<img src="https://github.com/mtilve/test/blob/master/movies_5.png" height="200px" width="400px" >
-<img src="https://github.com/mtilve/test/blob/master/movies_6.png" height="200px" width="400px" >
+<img src="https://github.com/mtilve/test/blob/master/movies_4.png" height="400px" width="800px" >
+<img src="https://github.com/mtilve/test/blob/master/movies_5.png" height="400px" width="800px" >
+<img src="https://github.com/mtilve/test/blob/master/movies_6.png" height="400px" width="800px" >
 </div>
 <br>
